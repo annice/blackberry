@@ -1,4 +1,4 @@
 blackberry
 ==========
 
-BlackBerry Java Develope
+BlackBerry Java Develop
